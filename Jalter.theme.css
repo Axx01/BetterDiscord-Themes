@@ -1,0 +1,24 @@
+//META{"name":"Jalter","description":"Fate/Grand Order Theme","author":"Ax","version":"1"}*//{}
+@import url(https://gitcdn.xyz/repo/Axx01/BetterDiscord-Themes/master/Template.css);
+
+.app {
+	background-image: url("http://thats-a.link/882b39.png");
+    background-size: cover !important;
+    background-color: #181840;
+}
+:root {
+   --Primary-Color: #181840;
+   --Primary-Transparency-Color: 24, 24, 64;
+   --Secondary-Color: #242c61;
+   --Secondary-Transparency-Color: 36, 44,97;
+}
+.colorUnreadText-2t7XRb, .colorUnreadVoice-137o4S {
+    color: #ff0d6e;
+}
+.theme-dark .isMentioned-N-h9aa {
+    background: rgba(231,12,100,.1);
+    border: 3px solid rgba(231,12,100,0.33);
+    padding: 7px 5px;
+	margin-left: -10px;
+	border-radius: 5px;
+}
