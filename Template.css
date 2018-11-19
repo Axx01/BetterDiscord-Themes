@@ -2427,5 +2427,12 @@ theme-dark .protip-YaFfgO {
     border-color: rgba(var(--Secondary-Transparency-Color),.6);
 }
 .theme-dark .listeningAlong-2UPsxf {
-	background-color: rgba(var(--Primary-Transparency-Color),0.5);
+    background-color: rgba(var(--Primary-Transparency-Color),0.5);
+}
+.wrapper-3jrx9n {
+    border: 2px solid var(--Secondary-Color);
+}
+.selected-mKYnfr.option-n0icdO {
+    background-color: var(--Secondary-Color);
+    border-color: var(--Secondary-Color);
 }
