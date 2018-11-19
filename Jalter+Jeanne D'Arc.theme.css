@@ -1,0 +1,28 @@
+//META{"name":"Jalter+Jeanne D'Arc","description":"Fate/Grand Order Theme","author":"Ax","version":"1"}*//{}
+@import url(https://gitcdn.xyz/repo/Axx01/BetterDiscord-Themes/master/Template.css);
+
+.app {
+	background-image: url("http://thats-a.link/04022a.png");
+    background-size: cover !important;
+    background-color: #2a2a39;
+}
+:root {
+   --Primary-Color: #2a2a39;
+   --Primary-Transparency-Color: 42, 42, 57;
+   --Secondary-Color: #c78e45;
+   --Secondary-Transparency-Color: 199, 142,69;
+}
+.theme-dark .isMentioned-N-h9aa {
+    background: rgba(199,142,69,.1);
+    border: 3px solid rgba(199,142,69,0.33);
+    padding: 7px 5px;
+	margin-left: -10px;
+	border-radius: 5px;
+}
+.theme-dark .headerNormal-T_seeN, .theme-dark .topSectionNormal-2-vo2m {
+    background: linear-gradient(155deg, rgb(115,82,40), var(--Secondary-Color));
+}
+.theme-dark .guild-1EfMGQ.unread-qLkInr:before,
+.theme-dark .guild-1EfMGQ.selected-ML3OIq:before, .guild-1EfMGQ.selected.unread-qLkInr:before {
+    background: linear-gradient(200deg, rgb(115,82,40), rgb(38,27,13));
+}
