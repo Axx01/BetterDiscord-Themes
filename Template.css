@@ -2166,12 +2166,6 @@ a {
 }
 
 
-:root {
-   --Primary-Color: #2b283e;
-   --Primary-Transparency-Color: 43, 40, 62;
-   --Secondary-Color: #4b466d;
-   --Secondary-Transparency-Color: 75, 70, 109;
-}
 .theme-dark .status-2s6iDp {
     border: none;
     width: 12px;
