@@ -15,7 +15,7 @@
 /* Background */
 
 .app {
-    background-image: url("var(--bgimageurl)");
+    background-image: url(var(--bgimageurl));
     background-size: cover !important;
     background-color: var(--Primary-Color);
 }
