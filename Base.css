@@ -2447,3 +2447,10 @@ element.style {
 .theme-dark .root-1BQpZw {
     background-color: transparent;
 }
+.theme-dark .sidebar-1-SQro {
+	background: linear-gradient(33deg, rgba(0, 0, 0, 1), rgba(var(--Primary-Transparency-Color),0.6));
+}
+
+.theme-dark .container-1If-HZ, .theme-dark .reactors-Blmlhw {
+    background: linear-gradient(33deg, rgba(0, 0, 0, 0.7), rgba(var(--Primary-Transparency-Color),0.4));;
+}
