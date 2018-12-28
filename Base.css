@@ -2454,3 +2454,6 @@ element.style {
 .theme-dark .container-1If-HZ, .theme-dark .reactors-Blmlhw {
     background: linear-gradient(33deg, rgba(0, 0, 0, 0.7), rgba(var(--Primary-Transparency-Color),0.4));;
 }
+.theme-dark .quickSelectPopout-X1hvgV {
+    background: linear-gradient(351deg, #000000, var(--Primary-Color));
+}
