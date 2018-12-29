@@ -2411,3 +2411,12 @@ element.style {
 .theme-dark .quickSelectPopout-X1hvgV {
     background: linear-gradient(351deg, #000000, var(--Primary-Color));
 }
+.theme-light .wrapper-2ZbzR9 {
+    background: transparent;
+}
+.theme-dark .wrapper-2ZbzR9 {
+    background: transparent;
+}
+.theme-dark .action-1lSjCi, .theme-light .action-1lSjCi {
+    background: transparent;
+}
