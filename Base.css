@@ -13,6 +13,82 @@
 */
 
 /* Background */
+/*Css Changes*/
+/* Friends Section */
+.friends -> .container-3gCOGc
+.tab-bar -> .tabBar-1E2ExX
+.tab-bar-primary -> .primary-3j8BhM
+.tab-bar-seperator -> .separator-gCa7yv
+.tab-bar-item -> .item-3HpYcP
+.selected -> .itemSelected-1qLhcL
+.itemDefault-3Jdr52 .notSelected-1N1G5p
+
+.friends-table -> .friendsTable-133bsv
+.friends-table-header -> .friendsTableHeader-32yE7d
+.friends-column -> .friendsColumn-eVHFqJ
+.friends-column-name - > .friendsColumn-eVHFqJ
+.friends-column-seperator -> .friendsColumnSeparator-3MqtMA
+.friends-column-status -> .friendsColumnStatus-ZH4ho2
+.friends-column-guilds -> .friendsColumnGuilds-2we6jb
+.friends-column-actions -> .friendsColumnActions-1LT3_M
+.friends-table -> .friendsTable-133bsv
+.friends-table-body -> .friendsTableBody-1ZhKif
+.friends-row -> .friendsRow-2yicud
+
+/* Search bar */
+.search -> .search-2oPWTC
+.open -> .open-6_Y_aH
+.focused -> .focused-31_ccS
+.search-bar -> .search-2oPWTC
+.search-bar-icon -> .searchBarIcon-1J6sKG
+.icon -> .icon-3cZ1F_
+.icon-search-bar-eye-glass -> .iconSearchBarEyeGlass-2n38zb
+.icon-search-bar-clear.visible -> .iconSearchBarClear-2DW-Kr.visible-3V0mGj
+
+/* Search menu */
+.search-results-wrap -> .searchResultsWrap-2DKFzt
+.search-header -> .searchHeader-1l-wpR
+.total-results -> .totalResults-gxvzgw
+.tab -> .tab-2Ixsn0
+.selected -> .selected-16te-P
+.results-wrapper -> .resultsWrapper-hoiXCY
+.search-results -> .searchResults-2J8dju
+.channel-separator -> .channelSeparator-1X1FuH
+.channel-name -> .channelName-1QajIf
+.search-result -> .searchResult-3pzFAB
+.search-result-message -> .searchResultMessage-2VxO12
+.hit -> .hit-NLlWXA
+.sibling -> .sibling-3tUBeh
+.before -> .before-1x1q5S
+.after -> .after-2g0jjc
+.pagination -> .pagination-eQpqgk
+.pagination-previous -> .paginationPrevious-4Yw0Tk
+.disabled -> .disabled-AFY2aL
+.pagination-next -> .paginationNext-3Tefao
+
+/* Emoji Search  */
+.search-bar -> .searchBar-2_Yu-C  
+.search-bar-light -> .searchBarLight-1NxoDG
+.search-bar-inner -> .searchBarInner-1_Tg2R
+
+/* Guilds Scroller */
+.scroller > .scroller-2FKFPG
+.scroller-wrap  > .scrollerWrap-2lJEkd
+
+/* Tooltips */
+.tooltips -> .tooltips-FhwIyl
+.tooltip -> .tooltip-1OS-Ti
+.tooltip-right -> .right-KM_vfY
+.tooltip-black -> .black-2bmmnj
+.tooltip-bottom -> .bottom-19kp6S
+.tooltip-brand -> .brand-3tBTjG
+.tooltip-green -> .green-hbUqD5
+.tooltip-left -> .left-1wV7VO
+.tooltip-red -> .red-m6f4-H
+.tooltip-top -> .top-1pTh1F
+.tooltip-yellow -> .yellow-1oq44m
+
+
 
 .app {
     background-image: var(--bgimage);
@@ -2421,4 +2497,7 @@ element.style {
 }
 .theme-dark .or-3THJsp, .theme-light .or-3THJsp {
     background: transparent;
+}
+.theme-dark .container-3gCOGc {
+    background-color: transparent;
 }
