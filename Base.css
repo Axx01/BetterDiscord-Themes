@@ -2458,3 +2458,6 @@ element.style {
 .theme-dark .friendsTable-133bsv .friendTableAddWrapper-nHHZtK .friendTableAddHeader-m9bzFr {
     background: transparent;
 }
+.searchBar-2_Yu-C.searchBarLight-1NxoDG input::placeholder {
+    color: #fff;
+}
