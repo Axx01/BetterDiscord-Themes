@@ -1874,7 +1874,7 @@ a {
 }
 .theme-dark .isMentioned-N-h9aa {
     backg round: rgba(0,0,0,.5);
-    border: 3px solid rgba(255,215,0,0.33);
+    border: 2px solid rgba(255,215,0,0.33);
     padding: 7px 5px;
 	margin-left: -10px;
 	border-radius: 5px;
@@ -1917,7 +1917,7 @@ a {
 .searchResultsWrap-2DKFzt .avatar-17mtNa .large-3ChYtB {
     opacity: 1 !important;
     border-radius: 50px;
-    border: 3px solid var(--Primary-Color);
+    border: 2px solid var(--Primary-Color);
 }
 .activity-1IYsbk {
     font-weight: 300;
