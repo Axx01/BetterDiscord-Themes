@@ -2461,3 +2461,9 @@ element.style {
 .searchBar-2_Yu-C.searchBarLight-1NxoDG input::placeholder {
     color: #fff;
 }
+.theme-dark .status-2kJpnA, .theme-light .status-2kJpnA {
+    border: 1px solid #2f3136;
+}
+.channel-2QD9_O .status-1ibiUI {
+    border: 1px solid #2f3136;
+}
