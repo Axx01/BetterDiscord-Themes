@@ -612,6 +612,7 @@
 .theme-dark .isMentioned-N-h9aa .mention {
     background-color: rgba(var(--Primary-Transparency-Color), 0.5);
     color: white;
+    border-radius: 3px;
 }
 .wrapper-3WhCwL {
     text-shadow: 0 0 1px black;
