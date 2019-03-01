@@ -2442,7 +2442,7 @@ element.style {
   transform: translateY(-50%);
 }
 .tabBar-1E2ExX .primary-3j8BhM {
-    background-color: transparent;
+    background-color: transparent !important;
     color: hsla(0,0%,100%,.6);
 }
 .theme-dark .topPill-30KHOu .itemSelected-1qLhcL {
