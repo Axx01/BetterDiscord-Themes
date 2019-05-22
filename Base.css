@@ -25,6 +25,9 @@
 	background-image: var(--bgimage);
 	background-size: cover;
 }
+body>div:last-of-type{
+    background:none!important;
+}
 .guilds-1q_RqH {
     padding: 10px 0 0px 0px;
 }
