@@ -21,6 +21,10 @@
     background-size: cover !important;
     background-color: var(--Primary-Color);
 }
+#app-mount .app-2rEoOp {
+	background-image: var(--bgimage);
+	background-size: cover;
+}
 .guilds-1q_RqH {
     padding: 10px 0 0px 0px;
 }
